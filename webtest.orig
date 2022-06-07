@@ -1,5 +1,25 @@
-<page.new>
+<page.new == "index.markup.orig">
 define cmndline "newline" 
   (get cdkeyof.parse1) test newline.cmnd
-if (key.cdkey ?==! windowelement1)
+if (key.cdkey ?==! windowelement)
+  parse(createnew == "newlist.li.orig")'elementsize'
+<open.styles == "index.styles.orig">
+  <tab.elements>
+  <newelement typ= "button" id= "testbutton1">
+    button.text == (usehtml)<?>"click me"<?>
+    newvar !=! testdoc.codex
+    usetemplateof [link1 "www.orig.tst/var?&&g8y2e-fg7pg9u9geeghfuio3gfho/2oiuefy92eufyo2uefy/testpage.orig"]
+     create tempsite.li typ= "fakelink" adrs="www.orig.tst" 
+      !www.orig.tst! disguise.name == "LINKNEW1"
+      if (term LINKNEW1!==!omitinterm) allow LINKNEW1 == undercover.code !linkadrs /whenused/ result !+=+=+! boolean.null.true
+    copy templateofdoc; useelement;
+    ai.bot Newai == keywords
+        {give testpage functions 
+        apply.newstyles/intocss==false 
+        //this ai is buggy// 
+          pages==pagecount+2 
+           use data."create templink typ= 
+                 "fakelink" adrs="nwww.link.tl" }
+                 <appstab == tab.apps>
+add::calc.allaps
 
