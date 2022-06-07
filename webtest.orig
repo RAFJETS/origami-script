@@ -1,0 +1,5 @@
+<page.new>
+define cmndline "newline" 
+  (get cdkeyof.parse1) test newline.cmnd
+if (key.cdkey ?==! windowelement1)
+
