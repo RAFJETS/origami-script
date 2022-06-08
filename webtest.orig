@@ -22,4 +22,185 @@ if (key.cdkey ?==! windowelement)
                  "fakelink" adrs="nwww.link.tl" }
                  <appstab == tab.apps>
 add::calc.allaps
+if calc::allaps !== window.comma/elementdisplay
+  define cmndline "devline" 
+  (get cdkeyof.parse2) test devline.cmnd
+if (key.cdkey ?==! parseopt.window)
+  parse(createnew == "newlist.li.orig")'parse.newline'
+  new.parameter == "find":::'extension.file'
+  define "find"
+    { get.filedata(newvar(andif))
+      if filedata == str 
+    give new.filedata(new.windowelement == "terminal"(typ == "filerequest" adrs == create tempsite.li typ= "fakelink" adrs="www.terminal.cmnd/p/"))
+    
+        }
+        <!PRGRM.END!>
+        - cmnd.bash true
+        - function true pinging new.codeline
+        - errorlist == 0
+        - warninglist == 1 
+        - "do line 199 == ailine?"
+        - cmnd.bash true
+        - errorlist == 0
+        - warninglist == 0
+        - consoleerrorlist == 0
+        - runnable == true
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        
+        -
+        --
+        -
+        
+        -
+        -
+        -
+        
+        -
+        -
+        
+        
+        -
+        
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        
+        --
+        -
+        -
+        ---
+        -
+        -----
+        ---
+        ----
+        --
+        
+        -
+        -
+        -
+        
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        
+        -
+        -
+        -
+        -
+        
+        -
+        -
+        -
+        -
+        
+        -
+        -
+        -
+        
+        -
+        -
+        
+        -
+        -
+        
+        -
+        -
+        -
+        
+        -
+        -
+        -
+        -
+        -
+        
+        -
+        -
+        -
+        -
+        -
+        
+        --
+        
+        -
+        -
+        --
+        -
+        
+        -
+        -
+        -
+        
+        -
+        -
+        -
+        --
+        
+        -
+        
+        -
+        --
+        
+        -
+        
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        
+        -
+        
+        
+        -
+        
+        -
+        -
+        -
+        
+        -
+        
+        -
+        -
+        
+        -
+        -
+        -
+        -
+        -
+        -
+        
+        -
 
+    
