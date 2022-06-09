@@ -1,0 +1,8 @@
+index.files == 'donottrack'
+  *.yaml
+    *.gitattributes
+      *otras
+            *.li
+                *.appewouro
+                  *.langtest.li
+                      *.looophooole
