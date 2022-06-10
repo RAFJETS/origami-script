@@ -1,1 +1,5 @@
-
+create newvar :: compilervar 
+ where compilervar apl.able/
+ new.cmndline == "comiplerline"
+ <open.cmndline.compilerline>
+ /getcontentfrom(git@github.com:jamiebuilds/the-super-tiny-compiler.git)
